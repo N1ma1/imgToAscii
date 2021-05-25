@@ -1,0 +1,3 @@
+pyrogram
+numpy
+Pillow
